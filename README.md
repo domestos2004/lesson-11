@@ -8,15 +8,10 @@
 
 
 
-1. One
+<span>1.</span> item 1<br/>
+<span>2.</span> item 2
 
-    1. one
-    2. two
-
-2. Two
-
-    3. three
-    4. four
+<span>3.</span> item 3
     
     
 
